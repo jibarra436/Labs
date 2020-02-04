@@ -7,8 +7,6 @@
 
 package Java;
 
-import java.util.EventListener;
-
 public class Switcharoo 
 {   
     public static void main(String[] args) 
